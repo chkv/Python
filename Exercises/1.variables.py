@@ -35,6 +35,8 @@ record-one is not valid
 record^one is not valid
 continue cant be a variable its a keyword
 
+8
+z
 
 
 '''
